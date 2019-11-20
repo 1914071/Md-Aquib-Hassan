@@ -194,8 +194,6 @@ int main()
                               
 
 
-Write a C Program to find the max between two numbers uding function
-
 int maximum(int a,int b);
 main()
 {
@@ -212,3 +210,20 @@ int maximum(int a,int b)
 	else
 		return b;		
 }
+
+
+
+
+	
+	
+	
+	
+	
+
+
+
+	
+		
+	
+				
+
